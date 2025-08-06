@@ -1,1 +1,10 @@
-/* Add styles here */
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: fff3e6;
+    margin: 40px;
+    color: #333;
+}
+
+h1,h2 {
+    color: ;
+}
