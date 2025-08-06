@@ -1,10 +1,21 @@
 body {
     font-family: 'Verdana', sans-serif;
-    background-color: fff3e6;
+    background-color: #fff3e6;
     margin: 40px;
     color: #333;
 }
 
 h1,h2 {
-    color: ;
+    color: #b30000;
+    background-color: #ffe0cc;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.pizza-img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
 }
